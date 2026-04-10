@@ -1,0 +1,8 @@
+EAR_THRESHOLD = 0.25
+MAR_THRESHOLD = 0.7
+
+ALERT_FRAMES = 20
+YAWN_FRAMES = 15
+
+ALARM_SOUND = "alarm.mp3"
+LOG_FILE = "logs/alerts.csv"
